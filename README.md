@@ -5,7 +5,7 @@ Contest 2 repository for CSE3120, fall 2026 semester. Expansion of Contest 1 pro
 Open the Visual Studio Developer command prompt\
 Navigate to the downloaded directory\
 run the compilation script `compile.bat`\
-If successful, run `TerminalTombPlus.exe`\
+If successful, run `TerminalTombPlus.exe`
 
 -----
 # Terminal Tomb+
