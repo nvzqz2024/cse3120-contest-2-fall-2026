@@ -20,9 +20,9 @@ If successful, run `TerminalTombPlus.exe`\
 - [ ] Add a collection of grid layouts for the game to choose from, such as from a `grids.ini` file. This improves replayability.
 - [ ] Upon play, load a random grid layout from grid layout file.
 - [ ] Make zombies wander to differentiate them more from traps
-- [ ] "Layer" system. The first grid does not have an exit, but a "doorway" that takes you to another grid ("Upper Layer"). Grid layer X will have the exit.
 
 ### Stretch Goals (If time permits)
+- [ ] "Layer" system. The first grid does not have an exit, but a "doorway" that takes you to another grid ("Upper Layer"). Grid layer X will have the exit.
 - [ ] Either "Food" or "Potions" can be found that restore health points.
 - [ ] You can store _One_ item (food/potion) for later use. Press `E` to use stored item.
 - [ ] Save highest gold collected as high score.
